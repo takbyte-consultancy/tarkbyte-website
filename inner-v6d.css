@@ -1,0 +1,16 @@
+/* Inner pages (labs, services) on the v6d palette */
+.phero,section.services,section.labs,section.res,footer{background:#050916!important;box-shadow:none!important}
+.phero{background:radial-gradient(60% 60% at 90% 0%,rgba(56,189,248,.14),transparent 70%),radial-gradient(50% 50% at 0% 110%,rgba(255,138,0,.12),transparent 70%),#050916!important}
+.dl>div,.lg,.lab,.lab-d{border-color:rgba(220,228,255,.1)}
+.shot{background:repeating-linear-gradient(135deg,rgba(245,248,255,.04) 0 10px,transparent 10px 20px),#0A1024!important}
+.os a{border-color:rgba(220,228,255,.16)}
+.crumb a:hover{color:#FF9A1F}
+.phero h1 span{color:var(--c,#FF9A1F)}
+
+/* light sections: dark ink */
+.on-paper,.cta{--night:#0A1024;color:#0A1024}
+.on-paper h2,.on-paper h3,.opt h3,.cta h2,.cta h3,.path h3{color:#0A1024}
+.on-paper .lede,.opt p,.opt-note,.cta .lede,.path p,.path-foot{color:rgba(10,16,36,.78)!important}
+.on-paper .label,.cta .label{color:#0A1024}
+.on-paper .chips li{color:#0A1024}
+.cta .btn-line,.path .btn-line{color:#0A1024!important;border-color:#0A1024!important}
